@@ -1,7 +1,0 @@
-.env
-node_modules
-venv
-.idea
-*.pyc
-.vscode
-metrics.json
